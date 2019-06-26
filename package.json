@@ -1,0 +1,11 @@
+{
+  "name": "skive",
+  "version": "1.0.0",
+  "description": "Exercises and implementations of algorithms from The Algorithm Design Manual",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+  },
+  "author": "Bruno 'Storm' Brant",
+  "license": "MIT"
+}
